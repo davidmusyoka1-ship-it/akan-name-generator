@@ -15,7 +15,7 @@ David Musyoka
 3. Open `index.html` in a web browser.
 
 ## Live Site
-https://your-username.github.io/akan-name-generator/
+https://davidmusyoka1-ship-it.github.io/akan-name-generator/
 
 ## BDD (Behavior Driven Development)
 - When a user enters a valid birth date and selects a gender,
@@ -35,3 +35,4 @@ Email: your-email@example.com
 MIT License
 
 Copyright (c) 2026 David Musyoka
+
