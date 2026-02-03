@@ -29,10 +29,11 @@ https://davidmusyoka1-ship-it.github.io/akan-name-generator/
 - JavaScript
 
 ## Contact Information
-Email: your-email@example.com
+Email: kietydave45@gmail.com
 
 ## License
 MIT License
 
 Copyright (c) 2026 David Musyoka
+
 
